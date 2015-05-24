@@ -6,3 +6,4 @@ Run_Analysis.R Overview
 3) Get measurements on mean/stddev
 4) Combine data
 5) Extract and export average metric of data
+
